@@ -20,3 +20,4 @@
 | 2020-12-04 | 40 분 57 초 | 141.60kcal | 0.57km | ![](https://pbs.twimg.com/media/EoWgNluVgAA8I8a.jpg) |
 | 2020-12-04 | 40 분 57 초 | 141.60kcal | 0.57km | ![](https://pbs.twimg.com/media/EoWgNluVgAA8I8a.jpg) |
 | 2020-12-04 | 40 분 57 초 | 141.60kcal | 0.57km | ![](https://pbs.twimg.com/media/EoWgNluVgAA8I8a.jpg) |
+| 2020-12-04 | 40 분 57 초 | 141.60kcal | 0.57km | ![](https://pbs.twimg.com/media/EoWgNluVgAA8I8a.jpg) |
