@@ -28,3 +28,4 @@
 | 2020-12-06 | 22 분 29 초 | 113.73kcal | 1.87km | ![](https://pbs.twimg.com/media/EolsLQDU0AEkHZ1.jpg) |
 | 2020-12-07 | 20 분 2 초 | 79.79kcal | 0.85km | ![](https://pbs.twimg.com/media/Eoq7nuDUcAANFqK.jpg) |
 | 2020-12-09 | 30 분 2 초 | 113.46kcal | 1.01km | ![](https://pbs.twimg.com/media/EozZYp1VEAAzjmw.jpg) |
+| 2020-12-10 | 17 분 9 초 | 66.51kcal | 0.94km | ![](https://pbs.twimg.com/media/Eo4Uvk7VgAMu_k8.jpg) |
