@@ -44,3 +44,4 @@
 | 2020-12-29 | 23 분 46 초 | 101.15kcal | 0.67km | ![](https://pbs.twimg.com/media/EqXYUD7U0AAk5ff.jpg) |
 | 2021-01-01 | 8 분 25 초 | 34.65kcal | 0.30km | ![](https://pbs.twimg.com/media/EqnvpDeVoAA27iw.jpg) |
 | 2021-01-02 | 26 분 3 초 | 85.62kcal | 0.65km | ![](https://pbs.twimg.com/media/EqsdLukVEAIl3FD.jpg) |
+| 2021-01-03 | 28 분 51 초 | 101.24kcal | 0.52km | ![](https://pbs.twimg.com/media/EqyamrxUYAAikMB.jpg) |
