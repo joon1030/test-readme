@@ -62,3 +62,4 @@
 | 2021-01-24 | 23 분 41 초 | 105.09kcal | 1.00km | ![](https://pbs.twimg.com/media/EsdpmUmVoAAlaHw.jpg) |
 | 2021-01-26 | 23 분 55 초 | 93.59kcal | 0.70km | ![](https://pbs.twimg.com/media/EsnctlNUYAAceob.jpg) |
 | 2021-01-26 | 15 분 2 초 | 66.87kcal | 0.11km | ![](https://pbs.twimg.com/media/Essk8ReUYAMLiiw.jpg) |
+| 2021-01-27 | 23 분 42 초 | 107.61kcal | 0.23km | ![](https://pbs.twimg.com/media/EsxrikCUUAUwRky.jpg) |
