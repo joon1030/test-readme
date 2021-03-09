@@ -92,3 +92,4 @@
 | 2021-03-01 | 15 분 47 초 | 82.47kcal | 1.18km | ![](https://pbs.twimg.com/media/EvbqjG4UYAQjXZF.jpg) |
 | 2021-03-02 | 24 분 O 초 | 94.90kcal | 0.66km | ![](https://pbs.twimg.com/media/EvgsfeUVgAApSCB.jpg) |
 | 2021-03-04 | 30 분 10 초 | 65.29kcal | 0.04km | ![](https://pbs.twimg.com/media/EvrEHjEVEAE1oxF.jpg) |
+| 2021-03-06 | 26 분 48 초 | 92.96kcal | 0.44km | ![](https://pbs.twimg.com/media/EvxO_SoVoAYtcw5.jpg) |
