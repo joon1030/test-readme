@@ -131,3 +131,4 @@
 | 2021-04-26 | 20 분 43 초 | 52.69kcal |  | ![](https://pbs.twimg.com/media/Ez78ZhwVkAQ3dLR.jpg) |
 | 2021-04-27 | 42 분 30 초 | 125.14kcal | 0.01km | ![](https://pbs.twimg.com/media/E0BLpGYVgAMPVUw.jpg) |
 | 2021-05-01 | 10 분 2 초 | 41.10kcal | 1.03km | ![](https://pbs.twimg.com/media/E0Q8ETjUcAAWuCl.jpg) |
+| 2021-05-02 | 23 분 31 초 | 103.18kcal | 1.19km | ![](https://pbs.twimg.com/media/E0WJ61bVIAYavNb.jpg) |
