@@ -194,3 +194,4 @@
 | 2021-09-05 | 29 분 58 초 | 126.08kcal | 0.44km | ![](https://pbs.twimg.com/media/E-jvKtKVUAY_GIW.jpg) |
 | 2021-09-22 | 39 분 45 초 | 113.09kcal | 0.59km | ![](https://pbs.twimg.com/media/E_7XWizUUAUsGhv.jpg) |
 | 2021-09-25 | 15 분 48 초 | 62.07kcal |  | ![](https://pbs.twimg.com/media/FAGREFWVkAE1dYR.jpg) |
+| 2021-09-26 | 27 분 17 초 | 102.30kcal | 1.36km | ![](https://pbs.twimg.com/media/FAP4fncVUAAsHI_.jpg) |
