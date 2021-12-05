@@ -202,3 +202,4 @@
 | 2021-11-28 | 21 분 49 초 | 101.39kcal | 0.57km | ![](https://pbs.twimg.com/media/FFUXRi9UUAA-oIq.jpg) |
 | 2021-11-28 | 20 분 19 초 | 115.65kcal | 0.39km | ![](https://pbs.twimg.com/media/FFPpAPnUcAQUGmg.jpg) |
 | 2021-11-30 | 15 분 15 초 | 103.12kcal | 0.96km | ![](https://pbs.twimg.com/media/FFestTnVgAEpaUy.jpg) |
+| 2021-12-02 | 18 분 57 초 | 119.23kcal | 0.99km | ![](https://pbs.twimg.com/media/FFo31jYVgAIPS8V.jpg) |
