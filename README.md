@@ -212,3 +212,4 @@
 | 2021-12-15 | 19 분 10 초 | 135. 15kcal | 0.44km | ![](https://pbs.twimg.com/media/FGry-53VcAAMa3Q.jpg) |
 | 2022-01-02 | 13 분 25 초 | 91.10kcal | 0.41km | ![](https://pbs.twimg.com/media/FIEM9RrUcAARtfI.jpg) |
 | 2022-01-06 | 21 분 45 초 | 129.74kcal | 0.44km | ![](https://pbs.twimg.com/media/FIdRMaWUUAA2kcL.jpg) |
+| 2022-03-13 | 23 분 22 초 | 122.14kcal | 0.23km | ![](https://pbs.twimg.com/media/FNuMSx6VEAQST5n.jpg) |
