@@ -227,3 +227,4 @@
 | 2022-04-19 | 12 분 54 초 | 94.08kcal | 1.37km | ![](https://pbs.twimg.com/media/FQqqpILVcAU1HW4.jpg) |
 | 2022-04-20 | 18 분 1 초 | 95.47kcal | 0.90km | ![](https://pbs.twimg.com/media/FQvyFI2VgAccSLA.jpg) |
 | 2022-04-20 | 22 분 48 초 | 134.65kcal | 0.46km | ![](https://pbs.twimg.com/media/FQ0zqSAUUAEGAyw.jpg) |
+| 2022-04-23 | 21 분 37 초 | 115.08kcal | 0.24km | ![](https://pbs.twimg.com/media/FRBVhOVVEAANqDq.jpg) |
