@@ -240,3 +240,4 @@
 | 2022-06-30 | 21 분 49 초 | 103.72kcal | 0.61km | ![](https://pbs.twimg.com/media/FWgRaiRVEAI4dRK.jpg) |
 | 2022-07-03 | 20 분 26 초 | 113.85kcal | 0.05km | ![](https://pbs.twimg.com/media/FWx4j9yUsAArQ5-.jpg) |
 | 2022-07-03 | 20 분 5 초 | 110.11kcal | 0.75km | ![](https://pbs.twimg.com/media/FWtV9e-UsAAzCgf.jpg) |
+| 2022-07-05 | 12 분 38 초 | 78.75kcal | 0.36km | ![](https://pbs.twimg.com/media/FW6FWBCUcAANzpI.jpg) |
