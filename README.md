@@ -244,3 +244,4 @@
 | 2022-07-06 | 12 분 22 초 | 75.75kcal | 0.47km | ![](https://pbs.twimg.com/media/FW-2rlZVUAEgDSk.jpg) |
 | 2022-07-26 | 18 분 32 초 | 112.74kcal | 0.55km | ![](https://pbs.twimg.com/media/FYoZJ6QUIAEyFTI.jpg) |
 | 2023-03-05 | 36 분 31 초 | 153.63kcal | 1.03km | ![](https://pbs.twimg.com/media/Fqa5bLSaEAAL-oz.jpg) |
+| 2023-03-12 | 7 분 49 초 | 55.22kcal | 0.17km | ![](https://pbs.twimg.com/media/FrBdWAZaUAADb8J.jpg) |
